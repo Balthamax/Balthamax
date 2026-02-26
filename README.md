@@ -1,6 +1,8 @@
+Padel connect est hors ligne. 
+
 - 👋 Hi, I’m @Balthamax
 - 👀 I’m interested in Entrepreneurship
-- 🌱 I’m currently learning how to code in python for data analysis
+- 🌱 I’m currently learning how to code. 
 - 💞️ I’m looking to collaborate on learn how to code
 - 📫 How to reach me : 
 
